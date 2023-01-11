@@ -11,7 +11,7 @@ global.owner = [
   ['923080613785', '👑 Devil king - Creador 👑', true],
   ['19294515952']
 ] 
-global.suittag = ['923080613786'] 
+global.suittag = ['923080613785'] 
 global.prems = ['923080613785','19294515952'] 
 
 global.packname = 'x_Ikratos_x'
